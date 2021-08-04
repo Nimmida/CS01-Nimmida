@@ -1,3 +1,3 @@
-i = float(input("Enter number"))
+A = float(input("Enter number"))
 for i in range (100):
-    print(i+10)
+    print(A+i)
